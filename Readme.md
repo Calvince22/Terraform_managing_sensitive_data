@@ -251,6 +251,4 @@ This is a foundational DevOps skill required for production-grade infrastructure
 ---
 
 ## 🔥 Author
-
-Day 13 — Terraform Challenge
 Secure Infrastructure & Secrets Management
